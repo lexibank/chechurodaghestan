@@ -1,0 +1,1000 @@
+NUMBER	ENGLISH	RUSSIAN	CONCEPTICON_ID	CONCEPTICON_GLOSS					
+1	the watermelon	арбуз	2766	WATERMELON					
+2	the barrel	бочка	2548	BARREL					
+3	the bucket	ведро	2052	BUCKET					
+4	the pea	горох	2025	PEA					
+5	the pear	груша	922	PEAR					
+6	the caterpillar	гусеница	2247	CATERPILLAR					
+7	the melon	дыня	507	MELON					
+8	the cabbage	капуста (кочанная)	774	CABBAGE					
+9	the carrot	морковь	3085	CARROT					
+10	the rust	ржавчина	3064	RUST					
+11	the co-father-in-law	сват	1055	FATHER-IN-LAW					
+12	the father-in-law	свёкор/тесть	1055	FATHER-IN-LAW					
+13	the fairy tale	сказка	2937	FAIRY TALE					
+14	the violin	каманча	NA	NA					
+15	the plum	слива	NA	NA					
+16	the herd	стадо (овец)	NA	NA					
+17	the mother-in-law	тёща/свекровь	2256	MOTHER-IN-LAW (OF WOMAN)					
+18	the rosary	четки	NA	NA					
+19	the whip	кнут, хлыст (для лошади)	2630	WHIP					
+20	the sugar	сахар	862	SUGAR					
+21	the soap	мыло	788	SOAP					
+22	the straw	солома	2299	STRAW					
+23	the wine	вино	1524	WINE					
+24	the table	стол	1775	TABLE					
+25	the paper	бумага	648	PAPER					
+26	the shop/store	магазин	746	SHOP					
+27	the school	школа	673	SCHOOL					
+28	the mule	мул	890	MULE					
+29	the oats	овёс (чем кормят лошадей)	60	OAT					
+30	the pencil	карандаш	2578	PENCIL					
+31	the turnip	репа	3062	TURNIP					
+32	the brick	кирпич	1006	BRICK					
+33	the tobacco	табак	974	TOBACCO					
+34	the towel	полотенце	1021	TOWEL					
+35	Saturday	суббота	1700	SATURDAY					
+36	the pepper	перец (черный)	1385	PEPPER					
+37	the lion	лев	1386	LION					
+38	the number	цифра, число	1356	NUMBER					
+39	the lamp or torch	фонарик, лампа	2131	TORCH OR LAMP					
+40	the week	неделя	1469	WEEK					
+41	the candle	свеча	1273	CANDLE					
+42	the glass	стекло	604	GLASS					
+43	the rice	рис	926	RICE					
+44	the cup	чашка	476	CUP					
+45	Thursday	четверг	1693	THURSDAY					
+46	the bottle	бутылка	1321	BOTTLE					
+47	the pipe	трубка курительная	1124	PIPE					
+48	the veil	платок которым закрывают лицо невесты, фата	1151	VEIL					
+49	the pocket	карман	1851	POCKET					
+50	the colour/color	цвет	1613	COLOR					
+51	the gun	ружьё	1566	GUN					
+52	the copper	медь	1825	COPPER					
+53	the letter	письмо	1612	LETTER					
+54	the gold	золото	1369	GOLD					
+55	Friday	пятница	1692	FRIDAY					
+56	the ball	мяч, шар	1845	BALL					
+57	the window	окно	1375	WINDOW					
+58	the trousers	брюки	809	TROUSERS					
+59	the chain	цепь	1627	CHAIN					
+60	the fork	вилка	1302	FORK					
+61	Wednesday	среда	1694	WEDNESDAY					
+62	the reindeer/caribou	олень	1936	DEER					
+63	the time	время	892	TIME					
+64	the money	деньги	1559	MONEY					
+65	Monday	понедельник	1697	MONDAY					
+66	the soup	суп	1547	SOUP					
+67	the lead	свинец (из чего пули)	627	LEAD (CHEMICAL ELEMENT)					
+68	Tuesday	вторник	1695	TUESDAY					
+69	the scythe	коса	20	SCYTHE					
+70	the sickle	серп	341	SICKLE					
+71	the spectacles/glasses	очки	1898	SPECTACLES					
+72	the paint	краска	647	PAINT (PIGMENTS)					
+73	the prison	тюрьма	1281	PRISON					
+74	the silver	серебро	759	SILVER					
+75	the lock	замок (навесной)	1596	LOCK					
+76	the mortar(other)	известковый раствор	1731	MORTAR BINDER					
+77	the cross	крест	1367	CROSS					
+78	the fist	кулак	1473	FIST					
+79	the tiger	тигр	846	TIGER					
+80	the scabies	чесотка	3172	SCABIES					
+81	the joke	шутка	3425	JOKE					
+82	the spade	лопата	1176	SPADE					
+83	Sunday	воскресенье	1699	SUNDAY					
+84	the scissors or shears	ножницы	1328	SCISSORS					
+85	the blanket	одеяло	806	BLANKET					
+86	the fermented drink	буза	404	ALCOHOL (FERMENTED DRINK)					
+87	the key	ключ	1472	KEY					
+88	the goose	гусь	1187	GOOSE					
+89	the sea	море	1474	SEA					
+90	the garden	сад	586	GARDEN					
+91	the duck	утка	1360	DUCK					
+92	the arch	арка	876	ARCH					
+93	the wheel	колесо	710	WHEEL					
+94	the grape	виноград	920	GRAPE					
+95	the hammer	молоток	1481	HAMMER					
+96	the clan	тухум, род	302	CLAN					
+97	the poison	яд	655	POISON					
+98	the boundary	граница, межа	2546	BORDER					
+99	the guard	охрана, охранник, караульный (?)	1940	GUARD					
+100	the sledge/sled	санки	368	SLEDGE					
+101	the price	цена	657	PRICE					
+102	the saw	пила	1948	SAW					
+103	the medicine	лекарство	1372	MEDICINE					
+104	the potato	картошка	593	POTATO					
+105	the family	семья	194	FAMILY					
+106	the glue	клей	1069	GLUE					
+107	the bridge	мост	1011	BRIDGE					
+108	the friend	друг, приятель	1325	FRIEND					
+109	the nail	гвоздь	502	NAIL (TOOL)					
+110	the fork(other)/pitchfork	вилы	337	PITCHFORK					
+111	the yoke	хомут	14	YOKE					
+112	the tongs	щипцы, клещи	272	TONGS					
+113	the pumpkin or squash	тыква	864	PUMPKIN					
+114	the spoon	ложка	1378	SPOON					
+115	the soul or spirit	душа, дух	811	SOUL					
+116	the mirror	зеркало	1171	MIRROR					
+117	the drum	барабан	908	DRUM					
+118	the maize/corn	кукуруза	506	MAIZE					
+119	the felt	войлок	325	FELT					
+120	the master	хозяин	383	MASTER					
+121	the slave	раб	812	SLAVE					
+122	the needle(other)	игла	1382	NEEDLE (FOR SEWING)					
+123	the corpse	труп	767	CORPSE					
+124	the work	работа	984	WORK (LABOUR)					
+125	the flour	мука (пшеничная)	1594	FLOUR					
+126	the axe/ax	топор	677	AXE					
+127	the floor	пол	1632	FLOOR					
+128	the cat	кошка	1208	CAT					
+129	the wall	стена	933	WALL (OF HOUSE)					
+130	the cattle	крупный рогатый скот	1153	CATTLE					
+131	the debt	долг	1914	DEBT					
+132	the uncle	дядя	1327	UNCLE					
+133	the pig	свинья	1337	PIG					
+134	the cock/rooster	петух	1511	ROOSTER					
+135	the belt	ремень, пояс	772	BELT					
+136	the oak	дуб	644	OAK					
+137	the thread	нитка	1161	THREAD					
+138	the iron	железо	621	IRON					
+139	the grandmother	бабушка (обращение)	1496	GRANDMOTHER					
+140	the wolf	волк	522	WOLF					
+141	the widow	вдова	1756	WIDOW					
+142	the grandfather	дедушка (обращение)	1383	GRANDFATHER					
+143	the mushroom	гриб	641	MUSHROOM					
+144	the voice	голос	1363	VOICE					
+145	the guest	гость	1782	GUEST					
+146	the beak	клюв	73	BEAK					
+147	the wedding	свадьба	1259	WEDDING					
+148	the spider	паук	843	SPIDER					
+149	the flower	цветок	239	FLOWER					
+150	the earthquake	землетрясение	6	EARTHQUAKE					
+151	the scar	шрам	497	SCAR					
+152	the walking stick	палка (пастушеская, для хождения; посох)	1296	WALKING STICK					
+153	the aunt	тётя	1272	AUNT					
+154	the shoulderblade	лопатка (часть тела)	172	SHOULDERBLADE					
+155	the dust	пыль	2	DUST					
+156	the lizard	ящерица	632	LIZARD					
+157	the twins	близнецы	1005	TWINS					
+158	the old man	старик	406	OLD MAN					
+159	the ladder	лестница (приставная)	1464	LADDER					
+160	the thing	вещь, предмет	738	THING					
+161	the boar	кабан, боров, вервь	3154	WILD BOAR					
+162	gate	ворота	2940	GATE					
+163	door	дверь	1567	DOOR					
+164	the orphan	сирота	1149	ORPHAN					
+165	the steam	пар	1193	STEAM					
+166	the waterfall	водопад	943	WATERFALL					
+167	the frog	лягушка	503	FROG					
+168	the ring	кольцо	1374	RING					
+169	the song	песня	1096	SONG					
+170	the bat	летучая мышь	1793	BAT					
+171	the earring	серьга, сережка	770	EARRING					
+172	the snail	улитка	1543	SNAIL					
+173	the widower	вдовец	1981	WIDOWER					
+174	the light	свет	630	LIGHT (RADIATION)					
+175	the path	тропинка	2252	PATH					
+176	the neighbour	сосед	1332	NEIGHBOUR					
+177	the bracelet	браслет	1754	BRACELET					
+178	the clothing or clothes	одежда	1895	CLOTHES					
+179	the cave	пещера	1155	CAVE					
+180	the arrow	стрела	977	ARROW					
+181	the body	тело	1480	BODY					
+182	the year	год	1226	YEAR					
+183	the sound or noise	звук, шум	1811	SOUND OR NOISE					
+184	the mortar(other)	ступа	224	MORTAR					
+185	the temples	висок	1604	TEMPLES					
+186	the skull	череп	1605	SKULL					
+187	the broom	метла	245	BROOM					
+188	the thief	вор	1160	THIEF					
+189	the father-in-law (of a woman)	свёкор	2254	FATHER-IN-LAW (OF WOMAN)					
+190	the beard	борода	678	BEARD					
+191	the comb	гребень; расческа	1475	COMB					
+192	the nape of the neck	затылок	1347	NAPE (OF NECK)					
+193	the dew	роса	1977	DEW					
+194	the collarbone	ключица	1994	COLLARBONE					
+195	the bark	кора	1204	BARK					
+196	the lightning	молния	1654	LIGHTNING					
+197	the wasp	оса	1517	WASP					
+198	the bow	лук (оружие)	3228	BOW OR CROSSBOW					
+199	the pestle	пестик (толочь чеснок)	225	PESTLE					
+200	the owl	сова	735	OWL					
+201	the rope	веревка	1218	ROPE					
+202	the tick	клещ	1527	TICK					
+203	the nettle	крапива	33	NETTLE					
+204	the foam	пена (на воде)	1768	FOAM					
+205	the fish	рыба	227	FISH					
+206	the hare	заяц	1190	HARE					
+207	the goitre/goiter	зоб (струма)	1957	GOITER					
+208	the butterfly	бабочка	1791	BUTTERFLY					
+209	the wood	древесина (материал для строительства)	1803	WOOD					
+210	the stepmother	мачеха	236	STEPMOTHER					
+211	the rainbow	радуга	1733	RAINBOW					
+212	the spine	позвоночник	805	SPINE					
+213	the wrist	запястье	799	WRIST					
+214	the footprint	след (ноги)	318	FOOTPRINT					
+215	the whetstone	оселок, точило, точильный камень	295	WHETSTONE					
+216	the father-in-law (of a man)	тесть	2255	FATHER-IN-LAW (OF MAN)					
+217	the nest	гнездо	539	NEST					
+218	the worm	червяк	1219	WORM					
+219	the cousin	двоюродный брат/сестра	1643	COUSIN					
+220	the navel	пупок	1838	NAVEL					
+221	the mother-in-law (of a man)	тёща	2257	MOTHER-IN-LAW (OF MAN)					
+222	the ant	муравей	587	ANT					
+223	the tree stump	пень	241	TREE STUMP					
+224	the stepfather	отчим	237	STEPFATHER					
+225	the tail	хвост	1220	TAIL					
+226	the claw	коготь	72	CLAW					
+227	the wing	крыло	1257	WING					
+228	the shade or shadow	тень	2275	SHADOW					
+229	the ankle	лодыжка	803	ANKLE					
+230	the grasshopper	кузнечик	607	GRASSHOPPER					
+231	the thunder	гром	1150	THUNDER					
+232	the beeswax	воск (пчелиный)	1931	BEESWAX					
+233	the sand	песок (строительный)	671	SAND					
+234	the clay	глина	1399	CLAY					
+235	the blister	мозоль	1584	BLISTER					
+236	the egg	яйцо	744	EGG					
+237	the earlobe	ушная мочка	18	EARLOBE					
+238	the elbow	локоть	981	ELBOW					
+239	the toe	палец ноги	1389	TOE					
+240	the spider web	паутина	1065	SPIDER WEB					
+241	the lip	губа	478	LIP					
+242	the thumb	большой палец руки	1781	THUMB					
+243	the fingernail	ноготь на пальце	1258	FINGERNAIL					
+244	the bruise	синяк	1148	BRUISE					
+245	the brother	брат	1262	BROTHER					
+246	the chin	подбородок	1510	CHIN					
+247	the heel	пятка	980	HEEL					
+248	the firewood	дрова, топливо	10	FIREWOOD					
+249	the eyelid	веко	17	EYELID					
+250	the yolk	желток	1556	YOLK					
+251	the partridge	куропатка	3681	PARTRIDGE					
+252	the sleeve	рукав	2953	SLEEVE					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
